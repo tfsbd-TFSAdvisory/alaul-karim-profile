@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+Desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-*
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
